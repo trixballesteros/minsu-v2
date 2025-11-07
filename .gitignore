@@ -23,6 +23,6 @@ config/filesystems.php
 *.mov
 *.avi
 /minsu-website
-/minsu-website-boostrap
+/minsu-website-bootstrap
 /minsu-website-front
 /minsu-website-livewire
