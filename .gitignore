@@ -22,3 +22,7 @@ config/filesystems.php
 *.mp4
 *.mov
 *.avi
+/minsu-website
+/minsu-website-boostrap
+/minsu-website-front
+/minsu-website-livewire
