@@ -1,0 +1,126 @@
+[04-Feb-2022 01:24:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\CanBeEscapedWhenCastToString' not found in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:12
+Stack trace:
+#0 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(571): include()
+#1 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/minsuedu/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#5 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#6 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exception in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 12
+[04-Feb-2022 01:24:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\CanBeEscapedWhenCastToString' not found in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:12
+Stack trace:
+#0 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(571): include()
+#1 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/minsuedu/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#5 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#6 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exception in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 12
+[04-Feb-2022 01:33:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\CanBeEscapedWhenCastToString' not found in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:12
+Stack trace:
+#0 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(571): include()
+#1 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/minsuedu/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#5 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#6 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exception in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 12
+[04-Feb-2022 01:33:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\CanBeEscapedWhenCastToString' not found in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:12
+Stack trace:
+#0 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(571): include()
+#1 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/minsuedu/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#5 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#6 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exception in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 12
+[04-Feb-2022 01:33:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\CanBeEscapedWhenCastToString' not found in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:12
+Stack trace:
+#0 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(571): include()
+#1 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/minsuedu/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#5 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#6 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exception in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 12
+[04-Feb-2022 01:33:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\CanBeEscapedWhenCastToString' not found in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:12
+Stack trace:
+#0 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(571): include()
+#1 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/minsuedu/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#5 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#6 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exception in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 12
+[04-Feb-2022 01:39:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\CanBeEscapedWhenCastToString' not found in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:12
+Stack trace:
+#0 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(571): include()
+#1 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/minsuedu/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#5 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#6 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exception in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 12
+[04-Feb-2022 01:39:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\CanBeEscapedWhenCastToString' not found in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:12
+Stack trace:
+#0 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(571): include()
+#1 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/minsuedu/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#5 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#6 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exception in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 12
+[04-Feb-2022 01:39:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\CanBeEscapedWhenCastToString' not found in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:12
+Stack trace:
+#0 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(571): include()
+#1 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/minsuedu/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#5 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#6 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exception in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 12
+[04-Feb-2022 01:39:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\CanBeEscapedWhenCastToString' not found in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:12
+Stack trace:
+#0 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(571): include()
+#1 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/minsuedu/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#5 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#6 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exception in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 12
+[04-Feb-2022 01:40:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\CanBeEscapedWhenCastToString' not found in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:12
+Stack trace:
+#0 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(571): include()
+#1 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/minsuedu/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#5 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#6 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exception in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 12
+[04-Feb-2022 01:40:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\CanBeEscapedWhenCastToString' not found in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:12
+Stack trace:
+#0 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(571): include()
+#1 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/minsuedu/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#5 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#6 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exception in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 12
+[04-Feb-2022 01:40:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\CanBeEscapedWhenCastToString' not found in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:12
+Stack trace:
+#0 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(571): include()
+#1 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/minsuedu/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#5 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#6 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exception in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 12
+[04-Feb-2022 01:40:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\CanBeEscapedWhenCastToString' not found in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:12
+Stack trace:
+#0 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(571): include()
+#1 /home/minsuedu/minsu/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/minsuedu/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#5 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#6 /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Foundation/Exception in /home/minsuedu/minsu/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 12

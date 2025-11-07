@@ -1,0 +1,10 @@
+<html>
+<head>
+    @livewireStyles
+</head>
+<body>
+    <livewire:components.core.top-nav/>
+    @livewireScripts
+</body>
+</html>
+</html>
